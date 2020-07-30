@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Tweetme/static/css/main.b32aa182.chunk.css",
+    "main.js": "/Tweetme/static/js/main.c9ca270c.chunk.js",
+    "main.js.map": "/Tweetme/static/js/main.c9ca270c.chunk.js.map",
+    "runtime-main.js": "/Tweetme/static/js/runtime-main.97977446.js",
+    "runtime-main.js.map": "/Tweetme/static/js/runtime-main.97977446.js.map",
+    "static/js/2.f1c38ffd.chunk.js": "/Tweetme/static/js/2.f1c38ffd.chunk.js",
+    "static/js/2.f1c38ffd.chunk.js.map": "/Tweetme/static/js/2.f1c38ffd.chunk.js.map",
+    "index.html": "/Tweetme/index.html",
+    "precache-manifest.e2156a67ca7f4f9574a628afde62d9d3.js": "/Tweetme/precache-manifest.e2156a67ca7f4f9574a628afde62d9d3.js",
+    "service-worker.js": "/Tweetme/service-worker.js",
+    "static/css/main.b32aa182.chunk.css.map": "/Tweetme/static/css/main.b32aa182.chunk.css.map",
+    "static/js/2.f1c38ffd.chunk.js.LICENSE.txt": "/Tweetme/static/js/2.f1c38ffd.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Tweetme/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97977446.js",
+    "static/js/2.f1c38ffd.chunk.js",
+    "static/css/main.b32aa182.chunk.css",
+    "static/js/main.c9ca270c.chunk.js"
+  ]
+}
